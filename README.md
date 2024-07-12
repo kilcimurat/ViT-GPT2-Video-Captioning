@@ -1,7 +1,17 @@
 # ViT-GPT2 Video Captioning
 
-This repository contains the implementation of a video captioning model using Vision Transformer (ViT) and GPT-2. The model is designed to generate descriptive captions for videos by leveraging the strengths of both image and language processing.
+This is the official codebase for paper: A NEW VIDEO CAPTIONING FRAMEWORK WITH VISUAL TRANSFORMER ENCODER AND GPT-2 BASED DECODER [https://www.amerikakongresi.org/_files/ugd/797a84_6c6dfe33b3334093907214838e7d9c1d.pdf].
 
+
+```
+@article{kilci2023fusion,
+  title={A NEW VIDEO CAPTIONING FRAMEWORK WITH VISUAL TRANSFORMER ENCODER AND GPT-2 BASED DECODER},
+  author={Kılcı, Murat and Ö. Atılım, Koca and Cayli, Özkan and Kılıç, Volkan},
+  journal=LATIN AMERICA 8th INTERNATIONAL CONFERENCE ON SCIENTIFIC RESEARCHES},
+  pages={322--329},
+  year={2024}
+}
+```
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
@@ -65,17 +75,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## References
 
-For more details on the approach and methodology, please refer to the paper:  [https://www.amerikakongresi.org/_files/ugd/797a84_6c6dfe33b3334093907214838e7d9c1d.pdf].
-
-
-```
-@article{kilci2023fusion,
-  title={A NEW VIDEO CAPTIONING FRAMEWORK WITH VISUAL TRANSFORMER ENCODER AND GPT-2 BASED DECODER},
-  author={Kılcı, Murat and Ö. Atılım, Koca and Cayli, Özkan and Kılıç, Volkan},
-  journal=LATIN AMERICA 8th INTERNATIONAL CONFERENCE ON SCIENTIFIC RESEARCHES},
-  pages={322--329},
-  year={2024}
-}
-```
