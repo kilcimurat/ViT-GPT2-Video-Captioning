@@ -7,7 +7,7 @@ This is the official codebase for paper: A New Video Captioning Framework with V
 @article{kilci2023fusion,
   title={A New Video Captioning Framework with Visual Transformer Encoder and GPT-2 Based Decoder},
   author={Kılcı, Murat and Ö. Atılım, Koca and Cayli, Özkan and Kılıç, Volkan},
-  journal=LATIN AMERICA 8th INTERNATIONAL CONFERENCE ON SCIENTIFIC RESEARCHES},
+  journal={Latin America 8th International Conference on Scientific Researches},
   pages={322--329},
   year={2024}
 }
