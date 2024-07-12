@@ -1,11 +1,11 @@
 # ViT-GPT2 Video Captioning
 
-This is the official codebase for paper: A NEW VIDEO CAPTIONING FRAMEWORK WITH VISUAL TRANSFORMER ENCODER AND GPT-2 BASED DECODER [https://www.amerikakongresi.org/_files/ugd/797a84_6c6dfe33b3334093907214838e7d9c1d.pdf].
+This is the official codebase for paper: A New Video Captioning Framework with Visual Transformer Encoder and GPT-2 Based Decoder [https://www.amerikakongresi.org/_files/ugd/797a84_6c6dfe33b3334093907214838e7d9c1d.pdf].
 
 
 ```
 @article{kilci2023fusion,
-  title={A NEW VIDEO CAPTIONING FRAMEWORK WITH VISUAL TRANSFORMER ENCODER AND GPT-2 BASED DECODER},
+  title={A New Video Captioning Framework with Visual Transformer Encoder and GPT-2 Based Decoder},
   author={Kılcı, Murat and Ö. Atılım, Koca and Cayli, Özkan and Kılıç, Volkan},
   journal=LATIN AMERICA 8th INTERNATIONAL CONFERENCE ON SCIENTIFIC RESEARCHES},
   pages={322--329},
